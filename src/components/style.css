@@ -159,7 +159,7 @@ body {
 
 .searchButton {
   width: 80px;
-  height: 32px;
+  height:50px;
   border: none;
   background: #048b9c;
   text-align: center;
@@ -169,6 +169,7 @@ body {
   font-size: 20px;
   outline: none;
   font-size: 16px;
+  margin-top: 120px;
 }
 
 .searchButton:hover {
@@ -181,6 +182,12 @@ body {
   text-align: center;
   margin-top: -150px;
   margin-bottom: 50px;
+}
+
+#search {
+  width: 550px;
+  height: 50px;
+  margin-top: 120px;
 }
 
 /*Resize the wrap to see the search bar change!*/
